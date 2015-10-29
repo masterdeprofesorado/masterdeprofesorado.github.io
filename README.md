@@ -1,5 +1,8 @@
 <!-- CSS: href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css -->
-CSS: font-awesome/css/font-awesome.min.css
+output: 
+  html_document:
+     css: font-awesome/css/font-awesome.min.css
+     self_contained: no
 
 # Aprendizaje y Enseñanza de la Tecnología
 
