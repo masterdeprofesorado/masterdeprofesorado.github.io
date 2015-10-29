@@ -1,16 +1,8 @@
-<!-- CSS: href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css -->
-output: 
-  html_document:
-     css: font-awesome/css/font-awesome.min.css
-     self_contained: no
-
 # Aprendizaje y Enseñanza de la Tecnología
 
 ### Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanza de Idiomas
 
 ### Universidad de La Laguna
-
-## <i class="icon-rocket"></i> Rocket
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
