@@ -886,7 +886,7 @@ img::-moz-selection {
     background: 0 0;
 }
 
-/*@media (max-width: 991px) {
+@media (max-width: 991px) {
     .navbar {
         min-height: 50px;
         margin-bottom: 20px;
@@ -922,14 +922,13 @@ img::-moz-selection {
         float: none;
         margin: 15px 0;
     }
-    /* since 3.1.0 */
     .navbar-collapse.collapse.in { 
         display: block!important;
     }
     .collapsing {
         overflow: hidden!important;
     }
-}*/
+}
 
 .warning {
     color: red;
