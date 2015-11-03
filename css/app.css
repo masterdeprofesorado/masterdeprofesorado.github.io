@@ -816,6 +816,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content ul.item-body i {
+    width: 15px;
     margin-right: 10px;
 }
 
