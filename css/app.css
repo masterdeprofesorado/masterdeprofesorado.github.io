@@ -819,7 +819,8 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content ul.item-body i {
+.portfolio-modal .modal-content ul.item-body i,
+h3 i {
     width: 15px;
     margin-right: 10px;
 }
@@ -951,6 +952,13 @@ img::-moz-selection {
 .warning-content p {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
+}
+
+.resources-link a,
+.resources-link a:hover,
+.resources-link a:focus,
+.resources-link a:active {
+    color: #000 !important;
 }
 
 body {
